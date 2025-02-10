@@ -1,7 +1,8 @@
-# Smart & Universal Web Scraper: Effortless Data Extraction, Powered by Generative AI 🦑
+# Smart Web Scraper 2.0 : Effortless Data Extraction, Powered by Generative AI 🦑
 
-The Smart & Universal Web Scrapper is an intelligent data extraction tool powered by Generative AI. It simplifies the process of scraping data from any website by allowing users to provide the website link and the required data fields. With its versatile capabilities, this tool can extract data seamlessly and present it in a tabular format, which can be downloaded in various formats such as Excel, JSON, or Markdown. Its smart, user-friendly interface ensures efficient and accurate data extraction for all your web scraping needs.
+The Smart Web Scrapper is an intelligent data extraction tool powered by Generative AI. Here I used LLM Models : `gpt-4o-mini`,`gemini-1.5-flash`, `gemini-1.5-flash-8b`, `gemini-1.5-pro`, `gemini-2.0-flash-exp`, `llama-3.3-70b-versatile`, `llama-3.1-8b-instant`, `gemma2-9b-it`, `Llama3.1 8B`. It simplifies the process of scraping data from any website by allowing users to provide the website link and the required data fields. With its versatile capabilities, this tool can extract data seamlessly and present it in a tabular format, which can be downloaded in various formats such as Excel, JSON, or Markdown. Its smart, user-friendly interface ensures efficient and accurate data extraction for all your web scraping needs.
 
+Important features include : `Pagination Mode`, `Attended Mode`
 
 ## How it Works
 
@@ -51,7 +52,7 @@ streamlit run app.py
 
 ## License :
 
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) [GNU General Public License v3.0](https://github.com/AdritPal08/universal-web-scraper-using-generative-ai/blob/main/LICENSE)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) [GNU General Public License v3.0](https://github.com/AdritPal08/Smart-Web-Scraper-2.0-using-Gen-AI/blob/main/LICENSE)
 
 
 ## Follow Me :
